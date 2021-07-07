@@ -1,0 +1,17 @@
+429f8c70abb974dc0499bb5740df48bb *DESCRIPTION
+54969e574a56f7a2d379c672a0198260 *LICENSE
+47493ff46cbe696f7dedfd9dd8fd1d9d *NAMESPACE
+246ab9cc2cff824c1268c30bd02db4cc *NEWS.md
+d084080e2cdfe97d08a8f0d1f791224b *R/read.R
+aa08f8dedd97fb44b138ff9aefa3a2b3 *R/write.R
+f00aba440de78bb1ab398f0fcce30cf8 *build/vignette.rds
+0426e711d1efd04ece4ce68dba111738 *inst/doc/overview.R
+f1efffea92c9bf67335046b2d8062590 *inst/doc/overview.Rmd
+e7447822ce8bc91275d98c93e2fb8964 *inst/doc/overview.html
+aed9f5ee2e0a0bdffdd3aba86b5ce9e0 *inst/extdata/vgsales/Genre.txt
+bf9c415655d2ab80b4ab3c1ed81da401 *inst/extdata/vgsales/Name.txt
+d632eba71107bf7bc3ec423eab256d78 *inst/extdata/vgsales/Rank.txt
+cca5ca2581a3a08b06781955b40f5bf1 *inst/extdata/vgsales/vgsales-metadata.json
+27c96e139d7946971604bf7f808fb9fc *man/read.ctf.Rd
+c98f4b7953c61b557227664ecf3344c0 *man/write.ctf.Rd
+f1efffea92c9bf67335046b2d8062590 *vignettes/overview.Rmd
